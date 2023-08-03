@@ -1,0 +1,1 @@
+chrome-extension://odfonlkabodgbolnmmkdijkaeggofoop/assets/styles/frame.css

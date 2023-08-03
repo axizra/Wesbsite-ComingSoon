@@ -1,0 +1,1 @@
+chrome-extension://odfonlkabodgbolnmmkdijkaeggofoop/content-script/index.js
